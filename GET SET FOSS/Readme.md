@@ -1,7 +1,7 @@
-#GETSETFOSS
+# GETSETFOSS
 This repository deals with the tasks given during the event GETSETFOSS
 
-##Important:
+## Important:
 For submissions fork the repo and make a folder by your username and submit by making a PR to main repo. eg my user name is **githubuser** so my solution for Task 1 will be in **solutions / githubuser / task1**
 
 |#| Task(Reversing Tasks)|	Format To Submit	  |
