@@ -1,4 +1,4 @@
-Write a bash script to take the input from "final.txt".
+Write a bash script to take the input from "final.txt" you made in Task2.
 Now take md5sum of each character and put it in another file named "decrypt_it".
 
 Since "decrypt_it" may be very large. So, you can take first half or less from final.txt in real time.
